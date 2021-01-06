@@ -1,0 +1,2 @@
+# PokeCorp (Sequelize practice)
+# pokeCorp
